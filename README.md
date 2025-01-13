@@ -33,4 +33,3 @@ Examining the Dominant Compulsion Type:
 Explore the frequency of various compulsion types in the OCD patient dataset.
 Identify and elaborate on the compulsion type that is most frequently observed.
 
-The project aims to provide actionable insights for management, aiding informed decision-making related to patient demographics, treatment strategies, and resource allocation in the field of Obsessive-Compulsive Disorder.
