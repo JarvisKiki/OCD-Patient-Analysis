@@ -11,7 +11,7 @@ Microsoft PowerBI
 
 
 ![Dashboard](https://github.com/JarvisKiki/OCD-Patient-Analysis/assets/139581022/dc386c92-838f-480b-98b8-f50593e128d3)
-
+![Alt text](https://github.com/JarvisKiki/OCD-Patient-Analysis/blob/main/Dashboard%20Screenshot.png)
 Project Title: Exploring Gender, Ethnicity, and Symptom Types in OCD Patient Demographics
 
 Project Description:
